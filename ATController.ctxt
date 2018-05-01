@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ATController()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TControl.\r\n\ Initialises\ the\ instance\ desiredTemperature\ at\ \ 38,\r\n\ the\ bath\ as\ a\ constructed\ instance\ of\ the\ Bath\ class,\ \r\n\ the\ display\ as\ null\ (to\ show\ no\ message)\r\n\ and\ the\ systemOn\ as\ false\ (system\ is\ turned\ off).\r\n
+comment1.params=
+comment1.target=int\ getDesiredTemperature()
+comment1.text=\r\n\ gets\ the\ value\ of\ the\ variable\ desiredTemperature.\r\n
+comment2.params=aTemperature
+comment2.target=void\ setDesiredTemperature(int)
+comment2.text=\r\n\ sets\ the\ value\ of\ the\ variable\ desiredTemperature\ \r\n\ to\ the\ value\ of\ the\ argument.\r\n
+comment3.params=
+comment3.target=java.lang.String\ heat()
+comment3.text=\r\n\ turns\ on\ the\ heating\ system\ and\ increments\ the\ bathTemperature\ \r\n\ until\ it\ reaches\ an\ equal\ value\ to\ the\ desiredTemperature.\r\n
+comment4.params=
+comment4.target=java.lang.String\ cool()
+comment4.text=\r\n\ turns\ on\ the\ cooling\ system\ decrements\ the\ bathTemperature\ \r\n\ until\ it\ reaches\ an\ equal\ value\ to\ the\ desiredTemperature.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Calculates\ the\ difference\ in\ temperature\ between\ the\ bathTemperature\ and\ desiredTemperature\r\n\ and\ depending\ on\ this\ invokes\ the\ heat\ or\ cool\ methods.\r\n\ Finally,\ it\ returns\ a\ message\ with\ the\ previous\ and\ latest\ bathTemperatures\ as\ well\ as\ \r\n\ the\ system\ used\ to\ achieve\ this.\r\n
+numComments=6

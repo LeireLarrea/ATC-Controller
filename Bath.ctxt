@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bath()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Bathtub.\ \r\n\ Initialises\ the\ instance\ \r\n\ bathTemperature\ at\ 30\ and\ the\ waterLevel\ at\ 100.\r\n
+comment1.params=
+comment1.target=int\ getBathTemperature()
+comment1.text=\r\n\ gets\ the\ value\ of\ the\ variable\ bathTemperature.\r\n
+comment2.params=aTemperature
+comment2.target=void\ setBathTemperature(int)
+comment2.text=\r\n\ sets\ the\ value\ of\ the\ variable\ bathTemperature\ \r\n\ to\ the\ value\ of\ the\ argument.\r\n
+numComments=3

@@ -1,0 +1,8 @@
+ATController one = new ATController();
+one.toString();
+
+one.bath.setBathTemperature(40);
+one.toString();
+
+one.bath.setBathTemperature(38);
+one.toString();
